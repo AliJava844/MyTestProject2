@@ -1,0 +1,1 @@
+Person{surname='Adsalamov', name='Turpal', lastname='Magomedovich', birthday=2004-04-21, phoneNumber=899988899, gender=m, age=21}
